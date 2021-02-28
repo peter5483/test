@@ -1,5 +1,5 @@
 {
-  "name": "git_practice",
+  "name": "test",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
   "main": "hello.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peter5483/git_practice.git"
+    "url": "git+https://github.com/peter5483/test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/peter5483/git_practice/issues"
+    "url": "https://github.com/peter5483/test/issues"
   },
-  "homepage": "https://github.com/peter5483/git_practice#readme",
+  "homepage": "https://github.com/peter5483/test#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
